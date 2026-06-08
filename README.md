@@ -30,7 +30,7 @@ For administrators, the system includes a comprehensive dashboard that simplifie
 
 The customer-facing side of the application provides a complete online shopping experience. Users can create accounts, browse products by category, search for specific items, view detailed product information, manage their wishlist, add products to their cart, and complete purchases through a simple checkout process.
 
-### ⚙️ Admin Dashboard Features
+### Admin Dashboard Features
 
 The admin panel provides complete store management capabilities through an organized dashboard interface. Administrators can:
 
